@@ -49,7 +49,7 @@
     "uuid": "3.3.3"
   },
   "devDependencies": {
-    "@aws-amplify/cli": "^3.15.0",
+    "@aws-amplify/cli": "^4.27.0",
     "@types/node": "^12.11.1",
     "@types/react": "^16.9.9",
     "@types/react-dom": "^16.9.2",
